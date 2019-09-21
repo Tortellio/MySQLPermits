@@ -1,0 +1,13 @@
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\obj\Debug\Anomoly.MySQLPermits.csprojAssemblyReference.cache
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\obj\Debug\Anomoly.MySQLPermits.csproj.CoreCompileInputs.cache
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\MySQLPermits.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\MySQLPermits.pdb
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\MySql.Data.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\Google.Protobuf.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\MySql.Data.xml
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\obj\Debug\Anomoly.MySQLPermits.csproj.CopyComplete
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\obj\Debug\MySQLPermits.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\obj\Debug\MySQLPermits.pdb
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\I18N.dll
+C:\Users\Avery\source\repos\Anomoly.MySQLPermits\Anomoly.MySQLPermits\bin\Debug\I18N.West.dll
