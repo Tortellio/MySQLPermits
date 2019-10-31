@@ -1,8 +1,0 @@
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\bin\Debug\Permits.dll
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\bin\Debug\Permits.pdb
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\bin\Debug\I18N.dll
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\bin\Debug\I18N.West.dll
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\bin\Debug\MySql.Data.dll
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\obj\Debug\Exposed.Permits.csprojResolveAssemblyReference.cache
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\obj\Debug\Permits.dll
-c:\users\avery\documents\visual studio 2017\Projects\Exposed.Permits\Exposed.Permits\obj\Debug\Permits.pdb
